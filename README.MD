@@ -26,3 +26,6 @@ Kirezi Bana Hortense
 
 ### How to use :rocket:
 When the user opens the website, he/she will see the recent blog posts.
+
+The user can read and comment on different posts.
+The user can also subscribe in order to get alerts when a new post is added.
