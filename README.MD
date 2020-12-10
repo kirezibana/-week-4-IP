@@ -29,3 +29,6 @@ When the user opens the website, he/she will see the recent blog posts.
 
 The user can read and comment on different posts.
 The user can also subscribe in order to get alerts when a new post is added.
+Upon signing up/in, a user will be able to:
+    1. Add posts.
+    2. Delete comments
