@@ -10,3 +10,5 @@ Kirezi Bana Hortense
 1. As a user, I would like to view the blog posts submitted
 
 1. As a user, I would like to comment on blog posts
+
+1. As a user, I would like to view the most recent posts
