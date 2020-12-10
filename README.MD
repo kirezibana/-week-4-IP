@@ -14,3 +14,5 @@ Kirezi Bana Hortense
 1. As a user, I would like to view the most recent posts
 
 1. As a user, I would like to alerted when a new post is made by joining a subscription.
+
+1. As a writer, I would like to sign in to the blog.
