@@ -18,3 +18,5 @@ Kirezi Bana Hortense
 1. As a writer, I would like to sign in to the blog.
 
 1. As a writer, I would also like to create a blog from the application.
+
+1. As a writer, I would like to delete comments that I find insulting or degrading.
