@@ -34,3 +34,7 @@ Upon signing up/in, a user will be able to:
     2. Delete comments
     3. Delete their posts
     4. View a personalized profile page
+
+### Tech used :computer: 
+1. HTML and CSS
+2. Python
