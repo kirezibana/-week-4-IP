@@ -45,3 +45,10 @@ Upon signing up/in, a user will be able to:
 ## Set up and Installation
 ### Prerequisites
 The user will require git, flask, postgres and python3.6+ installed in their machine.
+
+
+### Known Bugs :x:
+Currently, there are no known bugs
+
+### Licence
+This project is under the [MIT]
