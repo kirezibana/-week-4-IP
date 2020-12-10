@@ -22,3 +22,7 @@ Kirezi Bana Hortense
 1. As a writer, I would like to delete comments that I find insulting or degrading.
 
 1. As a writer, I would like to update or delete blogs I have created.
+
+
+### How to use :rocket:
+When the user opens the website, he/she will see the recent blog posts.
