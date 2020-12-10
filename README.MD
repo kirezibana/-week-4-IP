@@ -40,3 +40,4 @@ Upon signing up/in, a user will be able to:
 2. Python
 3. Flask
 1. Postgres
+1. Heroku for deployment
