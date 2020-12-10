@@ -41,3 +41,7 @@ Upon signing up/in, a user will be able to:
 3. Flask
 1. Postgres
 1. Heroku for deployment
+
+## Set up and Installation
+### Prerequisites
+The user will require git, flask, postgres and python3.6+ installed in their machine.
