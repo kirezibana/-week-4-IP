@@ -8,3 +8,5 @@ Kirezi Bana Hortense
 
  ### User Stories :family:
 1. As a user, I would like to view the blog posts submitted
+
+1. As a user, I would like to comment on blog posts
