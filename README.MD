@@ -32,3 +32,5 @@ The user can also subscribe in order to get alerts when a new post is added.
 Upon signing up/in, a user will be able to:
     1. Add posts.
     2. Delete comments
+    3. Delete their posts
+    4. View a personalized profile page
