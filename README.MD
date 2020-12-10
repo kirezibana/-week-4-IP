@@ -38,3 +38,4 @@ Upon signing up/in, a user will be able to:
 ### Tech used :computer: 
 1. HTML and CSS
 2. Python
+3. Flask
