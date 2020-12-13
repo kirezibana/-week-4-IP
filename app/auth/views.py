@@ -16,7 +16,7 @@ def register():
         email = form.email.data
         user = User(full_name = full_name, password = password,email = email, username = username)
         user.save_user()
-        create_mail("Welcome","email/email",user.email,name = user.full_name)
+       
 
         return redirect(url_for('auth.login'))
 

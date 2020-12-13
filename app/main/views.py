@@ -41,11 +41,7 @@ def add_post():
         new_post.save_post()
         subscribers = Subscriber.query.all()
         emails = []
-        for subscriber in subscribers:
-            emails.append(subscriber.email)
-        for email in emails:
-            create_mail("Update!","email/update",email, user = current_user)
-        print(emails)
+        
         return redirect(url_for('main.index'))
 
     return render_template("add_pitch.html",form = form,title = title)

@@ -1,5 +1,5 @@
 body {
-    background: #eceff1;
+    background: #ecf1f5;
 }
 * {
     font-size: 16px;
@@ -14,14 +14,8 @@ h1,h2,h3,h4,h5,h6 {
     overflow: hidden;
 }
 
-.landing {
-    background-image: url("../images/landing.jpeg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 630px;
-    width: 100%
-}
+
+
 .title {
     margin: 20px;
 }
