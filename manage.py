@@ -3,7 +3,7 @@ from flask_script import Manager,Server
 from app.models import User,Post, Comment
 from flask_migrate import Migrate, MigrateCommand
 
-app = create_app("test")
+app = create_app("production")
 
 manager = Manager(app)
 
@@ -23,7 +23,7 @@ def test():
 migrate = Migrate(app,db)
 manager.add_command("db", MigrateCommand)
 
-manager.add_command("serve", Server)
+manager.add_command("server", Server)
 
 if __name__ == "__main__":
     manager.run()
